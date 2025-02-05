@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  proficoHiringTask
+
+  Created by Emir Vajzović on 3. 2. 2025..
+  
+*/
+
+"Popular games" = "Popular games";
+"Based on your selected genres" = "Based on your selected genres";
+
+"About" = "About";
+"Screenshots" = "Screenshots";
+"System requirements for" = "System requirements for";
+
+"Platforms" = "Platforms";
+"Genre" = "Genre";
+"Release date" = "Release date";
+"Developer" = "Developer";
+"Publisher" = "Publisher";
+"Age rating" = "Age rating";
+
+"Welcome" = "Welcome";
+"Genres" = "Genres";
+"Please select your facorite genres" = "Please select your favorite genres";
+
+"Next" = "Next";
+"Cancel" = "Cancel";
+"Save" = "Save";
+
+"Oops!" = "Oops!";
+"We're having trouble fetching the data right now." = "We're having trouble fetching the data right now.";
+"Please try again." = "Please try again.";
+
+"Try again" = "Try again";

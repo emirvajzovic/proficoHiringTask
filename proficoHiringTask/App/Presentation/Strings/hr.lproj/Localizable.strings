@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  proficoHiringTask
+
+  Created by Emir Vajzović on 3. 2. 2025..
+  
+*/
+
+"Popular games" = "Popularne igre";
+"Based on your selected genres" = "Na temelju vaših odabranih žanrova";
+
+"About" = "O igri";
+"Screenshots" = "Snimke zaslona";
+"System requirements for" = "Sistemski zahtjevi za";
+
+"Platforms" = "Platforme";
+"Genre" = "Žanr";
+"Release date" = "Datum izlaska";
+"Developer" = "Razvojni tim";
+"Publisher" = "Izdavač";
+"Age rating" = "Dobna ocjena";
+
+"Welcome" = "Dobrodošli";
+"Genres" = "Žanrovi";
+"Please select your facorite genres" = "Molimo odaberite svoje omiljene žanrove";
+
+"Next" = "Dalje";
+"Cancel" = "Odustani";
+"Save" = "Spremi";
+
+"Oops!" = "Ups!";
+"We're having trouble fetching the data right now." = "Trenutno imamo poteškoće s dohvaćanjem podataka.";
+"Please try again." = "Molimo pokušajte ponovno.";
+
+"Try again" = "Pokušajte ponovno";
